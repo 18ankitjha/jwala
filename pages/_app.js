@@ -129,8 +129,7 @@ export default function App({ Component, pageProps }) {
     <a
       className="text-neutral-800 dark:text-neutral-400"
       href="https://tailwind-elements.com/"
-      >Tailwind Elements</a
-    >
+      >Jwala</a>
   </div>
 </footer>
 

@@ -23,48 +23,59 @@ export default function Home() {
           <div className='h-[80vh]  '>
             <div className='z-10 relative h-full py-20  '>
 
-              <h1 className='text-xl text-white pt-16 py-4  w-[80%] justify-center m-auto ' >This will be our heading Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ab totam tempora maiores officiis tempore quod nemo incidunt aspernatur et consequuntur sapiente ducimus quis perferendis optio, impedit mollitia architecto animi.</h1>
-              <p className='text-white py-4  w-[80%] justify-center m-auto '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam debitis iste dolore amet aliquam labore numquam praesentium commodi impedit, autem in suscipit hic quidem exercitationem sapiente explicabo repudiandae unde inventore! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum, fugit soluta cumque sunt itaque vitae sapiente quasi eius eum a enim saepe obcaecati optio praesentium provident voluptatem nesciunt odio. Exercitationem. </p>
+              <h1 className='text-xl text-white pt-16 py-4  w-[80%] justify-center m-auto font-extrabold' >Real-time fire detection,Precision fire location</h1>
+              <p className='text-white py-4  w-[80%] justify-center m-auto font-semibold'>Jwala is a cutting-edge platform that utilizes advanced web and machine learning technology to detect fires in real-time. This technology enables Jwala to monitor various data sources, including weather forecasts, temperature sensors, and satellite imagery, to detect the early signs of a fire. As soon as a fire is detected, Jwala provides users with early warning alerts, allowing them to take immediate action to protect themselves and their property.One of the key features of Jwala is its ability to precisely locate fires. By analyzing data from multiple sources, Jwala can identify the exact location of a fire, providing users with valuable information that can be used to take appropriate action. For example, users can use this information to alert authorities and first responders, who can then quickly mobilize to the location of th </p>
             </div>
             <img
               className='h-[100%] absolute top-0 left-0 bg-cover'
-              src="images/i4.jpg"
+              src="images/i7.jpg"
               alt="..."
             />
           </div>
           <div className='h-[80vh]  '>
             <div className='z-10 relative h-full py-20  '>
 
-              <h1 className='text-xl text-white pt-16 py-4  w-[80%] justify-center m-auto ' >This will be our heading Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ab totam tempora maiores officiis tempore quod nemo incidunt aspernatur et consequuntur sapiente ducimus quis perferendis optio, impedit mollitia architecto animi.</h1>
-              <p className='text-white py-4  w-[80%] justify-center m-auto '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam debitis iste dolore amet aliquam labore numquam praesentium commodi impedit, autem in suscipit hic quidem exercitationem sapiente explicabo repudiandae unde inventore! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum, fugit soluta cumque sunt itaque vitae sapiente quasi eius eum a enim saepe obcaecati optio praesentium provident voluptatem nesciunt odio. Exercitationem. </p>
+              <h1 className='text-xl text-white pt-16 py-4  w-[80%] justify-center m-auto font-extrabold' >Multiple alert options</h1>
+              <p className='text-white py-4  w-[80%] justify-center m-auto font-semibold'>Jwala is designed to provide users with timely alerts in the event of a fire. One of the key features of Jwala is its ability to send alerts via multiple channels, such as push notifications, SMS, and email. This ensures that users receive alerts quickly, no matter where they are or what they are doing. For example, if a user is not actively monitoring the Jwala platform, they can still receive alerts through push notifications on their mobile device. If they are not able to receive push notifications, Jwala can send alerts via SMS or email, ensuring that the user is notified of the fire as soon as possible. This multi-channel approach to alerting is particularly important in emergency situations where every second counts. With Jwala, users can have peace of mind knowing that they will be alerted to a fire in a timely manner, no matter what channel they prefer to receive their notifications.</p>
             </div>
             <img
               className='h-[100%] absolute top-0 left-0'
-              src="images/i1.jpg"
+              src="images/i8.jpg"
               alt="..."
             />
           </div>
           <div className='h-[80vh]'>
             <div className='z-10 relative h-full py-20  '>
 
-              <h1 className='text-xl text-white pt-16 py-4  w-[80%] justify-center m-auto ' >This will be our heading Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ab totam tempora maiores officiis tempore quod nemo incidunt aspernatur et consequuntur sapiente ducimus quis perferendis optio, impedit mollitia architecto animi.</h1>
-              <p className='text-white py-4  w-[80%] justify-center m-auto '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam debitis iste dolore amet aliquam labore numquam praesentium commodi impedit, autem in suscipit hic quidem exercitationem sapiente explicabo repudiandae unde inventore! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum, fugit soluta cumque sunt itaque vitae sapiente quasi eius eum a enim saepe obcaecati optio praesentium provident voluptatem nesciunt odio. Exercitationem. </p>
+              <h1 className='text-xl text-white pt-16 py-4  w-[80%] justify-center m-auto font-extrabold' >Detect Fake Signals, Offline capability</h1>
+              <p className='text-white py-4  w-[80%] justify-center m-auto font-semibold'>Jwala uses advanced machine learning algorithms to analyze data from various sources, including temperature sensors, weather forecasts, and satellite imagery. This technology allows Jwala to identify the specific characteristics of a fire, such as the heat and light emitted, and distinguish them from other sources of smoke, such as cooking or smoking. As a result, Jwala can provide highly accurate fire alerts in real-time, allowing users to take immediate action to protect themselves and their property.
+                Traditional smoke detectors, on the other hand, can be prone to false alarms, particularly in situations where smoke is produced by cooking or smoking. This can lead to the development of a complacent attitude towards alarms and can cause users to ignore them. Jwala's advanced fire detection technology ensures that users only receive real alarms in the event of a fire, preventing the development of complacency and ensuring that users take every alarm seriously. </p>
             </div>
             <img
               className='h-[100%] absolute top-0 left-0'
-              src="images/i2.jpg"
+              src="images/i9.jpg"
               alt="..."
             />
           </div>
           <div className='h-[80vh]  '>
             <div className='z-10 relative h-full py-20  '>
 
-              <h1 className='text-xl text-white pt-16 py-4  w-[80%] justify-center m-auto ' >This will be our heading Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ab totam tempora maiores officiis tempore quod nemo incidunt aspernatur et consequuntur sapiente ducimus quis perferendis optio, impedit mollitia architecto animi.</h1>
-              <p className='text-white py-4  w-[80%] justify-center m-auto '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam debitis iste dolore amet aliquam labore numquam praesentium commodi impedit, autem in suscipit hic quidem exercitationem sapiente explicabo repudiandae unde inventore! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum, fugit soluta cumque sunt itaque vitae sapiente quasi eius eum a enim saepe obcaecati optio praesentium provident voluptatem nesciunt odio. Exercitationem. </p>
+              <h1 className='text-xl text-white pt-16 py-4  w-[80%] justify-center m-auto font-extrabold' >Integration with emergency services</h1>
+              <p className='text-white py-4  w-[80%] justify-center m-auto font-semibold'>Jwala is designed to provide users with a comprehensive fire safety solution, and one of the key features of this solution is its ability to integrate with local emergency services, such as fire departments and police. This integration enables Jwala to provide a coordinated response to fires and other emergencies, helping to improve safety and reduce the risk of property damage and loss of life.
+
+                When a fire is detected by Jwala, the platform can automatically notify local emergency services, providing them with critical information about the location of the fire, the severity of the situation, and any other relevant details. This information can help emergency responders to quickly mobilize to the scene of the fire, minimizing the damage caused and improving the chances of saving lives.
+                Jwala's integration with local emergency services also enables it to provide users with up-to-date information about emergency services' response times, as well as other critical information about the situation on the ground. This can help users to make informed decisions about their safety and the safety of their property, ensuring that they take appropriate action in the event of a fire or other emergency.
+
+
+
+
+
+
+              </p>
             </div>
             <img
               className='h-[100%] absolute top-0 left-0'
-              src="images/i3.jpg"
+              src="images/i11.jpg"
               alt="..."
             />
           </div>
@@ -79,9 +90,13 @@ export default function Home() {
         <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">About Us
-              <br className="hidden lg:inline-block" /><span className='underline'>Helping Farmer</span>
+              <br className="hidden lg:inline-block" /><span className='underline'>Fire Stoppers</span>
             </h1>
-            <p className="mb-8 leading-relaxed">We are a group of tech geeks who uses technology to help farmer across the world to prevent/alert farmers from getting their crop burned . Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, quia enim. Eos cupiditate, ipsam ex mollitia repellendus doloremque harum porro officia corrupti eius enim doloribus! Aut id qui beatae at iste enim ipsum, facilis, nihil voluptatibus tempore aliquid cupiditate non aperiam? Sapiente nihil harum beatae dicta voluptatum quaerat amet fugit! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit fugiat voluptas perspiciatis fuga id iure deleniti unde mollitia corporis. Repudiandae unde suscipit alias eum repellendus eligendi officiis doloremque quibusdam similique? Tenetur necessitatibus hic, ipsam fugiat adipisci, iste pariatur nostrum eaque atque minima molestiae. Beatae doloremque, ipsa pariatur aliquid iure quis impedit animi possimus minima illum, at tempore. Sed, ut consectetur facilis asperiores itaque fugit vitae, voluptatem culpa quasi quos deserunt totam placeat quidem nobis quam, natus ad debitis ab atque. </p>
+            <p className="mb-8 leading-relaxed">Welcome to Jwala, the cutting-edge platform that provides users with advanced fire detection and early warning alerts. Our platform utilizes advanced web and machine learning technology to detect fires in real-time, providing users with early warning alerts and enabling them to take immediate action to protect themselves and their property.
+
+              At Jwala, we are committed to providing the highest level of fire safety to our users. Our platform is designed to be easy to use, yet highly effective, ensuring that users have access to accurate and real-time information about fire incidents in their area. Whether you're a homeowner looking to protect your family and property, or a business owner looking to safeguard your employees and assets, Jwala has the tools and technology you need to stay safe and secure.
+
+              Our platform is constantly evolving, as we work to incorporate the latest advancements in web and machine learning technology. We are dedicated to improving our detection capabilities and ensuring that our users have access to the most accurate and reliable fire alerts possible. </p>
 
           </div>
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
@@ -94,16 +109,16 @@ export default function Home() {
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-20">
             <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Hear it from Our Customer</h1>
-            <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.</p>
+            <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Discover how Jwala has helped users across various industries protect their property and loved ones from the threat of fire. Here are some testimonials from our satisfied customers</p>
           </div>
           <div className="flex flex-wrap -m-4">
             <div className="lg:w-1/3 sm:w-1/2 p-4">
               <div className="flex relative">
                 <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="images/c1.jpg" />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-black opac opacity-0 hover:opacity-100">
-                  <h2 className="tracking-widest text-sm title-font font-medium text-white mb-1">THE SUBTITLE</h2>
-                  <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Shooting Stars</h1>
-                  <p className="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+                  <h2 className="tracking-widest text-sm title-font font-medium text-yellow-500 mb-1">"Saved my home from fire" </h2>
+                  <h1 className="title-font text-lg font-medium text-yellow-300 mb-3">Rakesh Sharma</h1>
+                  <p className="leading-relaxed">Jwala detected a fire in my kitchen and sent an alert to my phone, allowing me to take quick action and prevent serious damage to my home. Thank you, Jwala!<br/><br/><br/><br/></p>
                 </div>
               </div>
             </div>
@@ -111,9 +126,9 @@ export default function Home() {
               <div className="flex relative">
                 <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="images/c2.jpg" />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-black opac opacity-0 hover:opacity-100">
-                  <h2 className="tracking-widest text-sm title-font font-medium text-white mb-1">THE SUBTITLE</h2>
-                  <h1 className="title-font text-lg font-medium text-gray-900 mb-3">The Catalyzer</h1>
-                  <p className="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+                  <h2 className="tracking-widest text-sm title-font font-medium text-yellow-500 mb-1">"Excellent fire safety solution"</h2>
+                  <h1 className="title-font text-lg font-medium text-yellow-300 mb-3">Preeti Singh</h1>
+                  <p className="leading-relaxed">I recently installed Jwala in my office building, and I'm impressed with the level of protection it provides. The platform's integration with local emergency services is particularly helpful.<br/><br/><br/></p>
                 </div>
               </div>
             </div>
@@ -121,9 +136,9 @@ export default function Home() {
               <div className="flex relative">
                 <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="images/c3.jpg" />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-black opac opacity-0 hover:opacity-100">
-                  <h2 className="tracking-widest text-sm title-font font-medium text-white mb-1">THE SUBTITLE</h2>
-                  <h1 className="title-font text-lg font-medium text-gray-900 mb-3">The 400 Blows</h1>
-                  <p className="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+                  <h2 className="tracking-widest text-sm title-font font-medium text-yellow-500 mb-1">"Easy to use and highly effective" </h2>
+                  <h1 className="title-font text-lg font-medium text-yellow-300 mb-3">Saurabh Gupta</h1>
+                  <p className="leading-relaxed">Jwala is a must-have for any homeowner looking to protect their family and property from the threat of fire. The platform's real-time alerts and precise location tracking make it an incredibly effective fire safety solution.<br/><br/></p>
                 </div>
               </div>
             </div>
@@ -131,9 +146,9 @@ export default function Home() {
               <div className="flex relative">
                 <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="images/c5.jpg" />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-black opac opacity-0 hover:opacity-100">
-                  <h2 className="tracking-widest text-sm title-font font-medium text-white mb-1">THE SUBTITLE</h2>
-                  <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Neptune</h1>
-                  <p className="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+                  <h2 className="tracking-widest text-sm title-font font-medium text-yellow-500 mb-1">"Peace of mind"</h2>
+                  <h1 className="title-font text-lg font-medium text-yellow-300 mb-3">Neha Patel</h1>
+                  <p className="leading-relaxed">As a new homeowner, I was nervous about the risk of fire. Jwala has given me peace of mind, knowing that I will be alerted immediately in the event of a fire.<br/><br/></p>
                 </div>
               </div>
             </div>
@@ -141,22 +156,23 @@ export default function Home() {
               <div className="flex relative">
                 <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="images/c6.jpg" />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-black opac opacity-0 hover:opacity-100">
-                  <h2 className="tracking-widest text-sm title-font font-medium text-white mb-1">THE SUBTITLE</h2>
-                  <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
-                  <p className="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+                  <h2 className="tracking-widest text-sm title-font font-medium text-yellow-500 mb-1">"Impressed with the accuracy of the alerts"</h2>
+                  <h1 className="title-font text-lg font-medium text-yellow-300 mb-3">Rajesh Kumar</h1>
+                  <p className="leading-relaxed">I've been using Jwala for several months now, and I'm impressed with how accurate and reliable the fire alerts are. The platform's machine learning technology really sets it apart from traditional smoke detectors.</p>
                 </div>
               </div>
             </div>
             <div className="lg:w-1/3 sm:w-1/2 p-4">
               <div className="flex relative">
-                <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="images/c4.jpeg" />
+                <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="images/c6.jpg" />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-black opac opacity-0 hover:opacity-100">
-                  <h2 className="tracking-widest text-sm title-font font-medium text-white mb-1">THE SUBTITLE</h2>
-                  <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Alper Kamu</h1>
-                  <p className="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+                  <h2 className="tracking-widest text-sm title-font font-medium text-yellow-500 mb-1">"Highly recommended"</h2>
+                  <h1 className="title-font text-lg font-medium text-yellow-300 mb-3">Anjali Desai</h1>
+                  <p className="leading-relaxed">I recently recommended Jwala to a friend, and they were very impressed with the platform's features and capabilities. I would highly recommend Jwala to anyone looking for a powerful fire safety solution.</p>
                 </div>
               </div>
             </div>
+            
           </div>
         </div>
       </section>
@@ -165,16 +181,16 @@ export default function Home() {
         <div className="contFainer px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-20">
             <h1 className="sm:text-4xl text-3xl font-medium title-font mb-2 text-white">Pricing</h1>
-            <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-100">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical.</p>
-            
+            <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-100">Ready to experience the power of Jwala for yourself? Choose the subscription plan that works best for your needs and budget.</p>
+
           </div>
           <div className="flex flex-wrap -m-4">
-           
+
             <div className="p-4 xl:w-1/2 md:w-1/2 w-full">
               <div className="h-full p-6 rounded-lg border-2 border-gray-300 flex flex-col relative overflow-hidden">
                 <h2 className="text-sm tracking-widest title-font mb-1 font-medium">BUSINESS</h2>
                 <h1 className="text-5xl text-white leading-none flex items-center pb-4 mb-4 border-b border-gray-200">
-                  <span>$56</span>
+                  <span>₹156</span>
                   <span className="text-lg ml-1 font-normal text-gray-500">/mo</span>
                 </h1>
                 <p className="flex items-center text-gray-100 mb-2">
@@ -182,42 +198,42 @@ export default function Home() {
                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                       <path d="M20 6L9 17l-5-5"></path>
                     </svg>
-                  </span>Vexillologist pitchfork
+                  </span>Accurate result
                 </p>
                 <p className="flex items-center text-gray-100 mb-2">
                   <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-400 text-white rounded-full flex-shrink-0">
                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                       <path d="M20 6L9 17l-5-5"></path>
                     </svg>
-                  </span>Tumeric plaid portland
+                  </span>Record video
                 </p>
                 <p className="flex items-center text-gray-100 mb-2">
                   <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-400 text-white rounded-full flex-shrink-0">
                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                       <path d="M20 6L9 17l-5-5"></path>
                     </svg>
-                  </span>Hexagon neutra unicorn
+                  </span>Slow response
                 </p>
                 <p className="flex items-center text-gray-100 mb-2">
                   <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-400 text-white rounded-full flex-shrink-0">
                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                       <path d="M20 6L9 17l-5-5"></path>
                     </svg>
-                  </span>Vexillologist pitchfork
+                  </span>Large memory usage
                 </p>
-                
+
                 <button className="font-bold  text-xl mt-auto text-white justify-center bg-orange-500 border-0 py-2 px-4 w-full focus:outline-none hover:bg-orange-700 hover:shadow-white/lg rounded">
-                  Subscribe 
-                  
+                  Subscribe
+
                 </button>
-                <p className="text-xs text-gray-100 mt-3">Literally you probably haven't heard of them jean shorts.</p>
+                <p className="text-xs text-gray-100 mt-3">Please read term and condition </p>
               </div>
             </div>
             <div className="p-4 xl:w-1/2 md:w-1/2 w-full">
               <div className="h-full p-6 rounded-lg border-2 border-gray-300 flex flex-col relative overflow-hidden">
                 <h2 className="text-sm tracking-widest title-font mb-1 font-medium">SPECIAL</h2>
                 <h1 className="text-5xl text-white leading-none flex items-center pb-4 mb-4 border-b border-gray-200">
-                  <span>$72</span>
+                  <span>₹172</span>
                   <span className="text-lg ml-1 font-normal text-gray-500">/mo</span>
                 </h1>
                 <p className="flex items-center text-gray-100 mb-2">
@@ -225,35 +241,35 @@ export default function Home() {
                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                       <path d="M20 6L9 17l-5-5"></path>
                     </svg>
-                  </span>Vexillologist pitchfork
+                  </span>Accurate result
                 </p>
                 <p className="flex items-center text-gray-100 mb-2">
                   <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-400 text-white rounded-full flex-shrink-0">
                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                       <path d="M20 6L9 17l-5-5"></path>
                     </svg>
-                  </span>Tumeric plaid portland
+                  </span>Capture photo
                 </p>
                 <p className="flex items-center text-gray-100 mb-2">
                   <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-400 text-white rounded-full flex-shrink-0">
                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                       <path d="M20 6L9 17l-5-5"></path>
                     </svg>
-                  </span>Hexagon neutra unicorn
+                  </span>Fast response
                 </p>
                 <p className="flex items-center text-gray-100 mb-2">
                   <span className="w-4 h-4 mr-2 inline-flex items-center justify-center bg-gray-400 text-white rounded-full flex-shrink-0">
                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" className="w-3 h-3" viewBox="0 0 24 24">
                       <path d="M20 6L9 17l-5-5"></path>
                     </svg>
-                  </span>Vexillologist pitchfork
+                  </span>Less memory usage
                 </p>
-                
+
                 <button className="font-bold  text-xl mt-auto text-white justify-center bg-orange-500 border-0 py-2 px-4 w-full focus:outline-none hover:bg-orange-700 hover:shadow-white/lg rounded">
-                  Subscribe 
-                  
+                  Subscribe
+
                 </button>
-                <p className="text-xs text-gray-100 mt-3">Literally you probably haven't heard of them jean shorts.</p>
+                <p className="text-xs text-gray-100 mt-3">Please read term and condition</p>
               </div>
             </div>
           </div>
